@@ -1,1 +1,1 @@
-# dataviz_mini-project1
+# Visualization Critique & Redesign
